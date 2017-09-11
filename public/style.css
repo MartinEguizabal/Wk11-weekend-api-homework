@@ -1,0 +1,54 @@
+body {
+  background-image: url("record-504759_1280crop.png");
+  background-position: 18% top;
+}
+
+.main {
+  text-align: center;
+  font-family: Helvetica, "Times New Roman";
+
+}
+
+/*.console {
+  position: relative;
+  bottom: 25px;
+}*/
+
+input {
+  border: 7px solid black;
+  border-radius: 15px;
+  width: 170px;
+  height: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+  bottom: 60px;
+}
+
+button {
+  height: 65px;
+  width: 65px;
+  border-radius: 65px;
+  border: none;
+  background-color: black;
+  color: white;
+  position: relative;
+  bottom: 42px;
+}
+
+/*p {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 60px;
+}*/
+
+h1 {
+    font-size: 1000%;
+    color: white;
+    text-shadow: -22px 0 #000000,0 22px #000000, 22px 0 #000000,0 -22px #000000;
+    position: relative;
+    bottom: 50px;
+}
+
